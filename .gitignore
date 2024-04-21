@@ -1,4 +1,5 @@
 /Kürschner
+*.pdf
 /.venv
 /.vscode
 /.idea
