@@ -1,6 +1,6 @@
 /Kürschner
 *.pdf
-/.venv
+/.venv*
 /.vscode
 /.idea
 .DS_Store
