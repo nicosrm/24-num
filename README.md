@@ -1,6 +1,6 @@
 # Numerische Methoden im Data Science und Machine Learning
 
-> C204: Fortgeschrittene Themen der Informatik bei [Prof. Patrick Kürschner](https://mnz.htwk-leipzig.de/mnz/personen/professuren/prof-dr-rer-nat-patrick-kuerschner/)
+Dieses Repository enthält Lösungen zu Aufgaben aus dem Modul C204.2: *Fortgeschrittene Themen der Informatik – Numerische Methoden im Data Science und Machine Learning* von [Prof. Patrick Kürschner](https://mnz.htwk-leipzig.de/mnz/personen/professuren/prof-dr-rer-nat-patrick-kuerschner/) im Studiengang Informatik (Master) an der Hochschule für Technik, Wirtschaft und Kultur Leipzig (HTWK).
 
 
 ## Inhalte
@@ -14,7 +14,7 @@
 - [Matrix Rang](./src/tasks/b2/rang_matrix.ipynb) (Beleg 2)
 - [Spektralnorm einer Diagonalmatrix](./src/tasks/b2/spektralnorm_diagonalmatrix.ipynb) (Beleg 2)
 
-### (lineare) Regression
+### (Lineare) Regression
 
 - [Einführung lineare Regression](./src/seminars/s01_lin_reg.ipynb) (Seminar 1)
 - [Einführung lineare Regression, exponentieller Zusammenhang](./src/tasks/b1/lineare_regression.ipynb) (Beleg 1)
@@ -26,7 +26,7 @@
 - [SGD](./src/tasks/b3/sgd.ipynb) (Beleg 3)
 - [SGD](./src/test_exam/3b_sgd.ipynb) (Probe-Klausur)
 
-### lineare kleinste Quadrate
+### Lineare kleinste Quadrate
 
 - [lineare kleinste Quadrate mit Normalengleichung](./src/seminars/s02_lin_lstsq.ipynb) (Seminar 2)
 - [Trainings-Test-Fehler](./src/seminars/s03_train_test_fehler.ipynb) (Seminar 3)
@@ -57,9 +57,16 @@
 
 - [K-Means, Classix](./src/seminars/s07_clustering.ipynb) (Seminar 7)
 
-### KNN
+### Künstliche Neuronale Netze
 
 - [Berechnung Layer](./src/tasks/b3/knn.ipynb) (Beleg 3)
 - [Anzahl Parameter](./src/test_exam/1c_knn_param.ipynb) (Probe-Klausur)
 - [Keras Regression](./src/seminars/s09_knn_boston.ipynb) (Seminar 9)
 - [Keras Klassifikation](./src/seminars/s09_knn.ipynb) (Seminar 9)
+
+
+## Lizenz
+
+Die ursprünglichen Aufgaben wurden von [Prof. Patrick Kürschner](https://mnz.htwk-leipzig.de/mnz/personen/professuren/prof-dr-rer-nat-patrick-kuerschner/) erstellt wurden aus dem [Opal-Kurs](https://bildungsportal.sachsen.de/opal/auth/RepositoryEntry/41943891968/CourseNode/1708572546306525011?18) für das o.g. Modul entnommen. Sie stehen unter der [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) Lizenz.
+
+Die Lösungen und Ansätze, welche in diesem Repository enthalten sind, stehen unter der [MIT Lizenz](./LICENSE). Alle Lösungsangaben sind ohne Gewähr!
